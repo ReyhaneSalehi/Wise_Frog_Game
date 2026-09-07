@@ -27,7 +27,7 @@ You play as a human who has been mysteriously transformed into a frog. To regain
 
 ---
 
-👩🏻‍💻 My Contributions
+## 👩🏻‍💻 My Contributions
 
 As a member of the development team, I contributed to the implementation and improvement of several core gameplay features, including:
 
